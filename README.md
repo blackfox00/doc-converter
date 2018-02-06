@@ -1,2 +1,2 @@
 # doc-converter
-Library to convert word documents (docx) to html/latex
+Library to convert word documents (docx) to html/latex. Under development. 
